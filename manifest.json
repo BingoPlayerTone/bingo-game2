@@ -1,0 +1,9 @@
+{
+  "name": "Bingo Game",
+  "short_name": "Bingo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#e94560",
+  "icons": []
+}
